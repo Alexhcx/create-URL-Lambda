@@ -15,7 +15,7 @@ O Lambda recebe a URL original e a data de expiração como entrada. [4] Ele ger
 
 ## Instruções de Uso
 
-**Pré-requisitos:** Uma conta AWS, AWS CLI configurada, Java JDK instalado.
+**Pré-requisitos:** Uma conta AWS, Java JDK instalado.
 
 **Deploy:**
 
