@@ -39,7 +39,7 @@ A função Lambda recebe a URL original e a data de expiração como entrada no 
   "originalUrl": "[https://www.exemplo.com](https://www.exemplo.com)",
   "expirationTime": 1670976000
 }
-
+```
 ## Observações
 
 * A data de expiração deve ser informada em segundos (timestamp Unix).
