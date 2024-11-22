@@ -2,10 +2,7 @@
 
 ## Visão Geral
 
-Este projeto consiste em uma função Lambda escrita em Java que cria URLs curtas. Ele utiliza os seguintes serviços da AWS:
-
-* **AWS S3:** Armazena os dados das URLs, incluindo a URL original e a data de expiração, em arquivos JSON.
-* **API Gateway:** Expõe um endpoint para a função Lambda, permitindo que ela seja acessada publicamente para criar novas URLs curtas.
+Desenvolvimento de aplicação serverless com Java e Maven para redirecionamento de urls. Realizado a integração com AWS S3 para criação e gerenciamento de buckets, exposição de endpoints via API Gateway, uso de AWS Lambda para processamento serverless, e manipulação de dados em JSON com Jackson.
 
 ## Descrição
 
